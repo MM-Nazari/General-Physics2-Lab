@@ -26,7 +26,7 @@ The Report for this part is provided in [Lab05 Report PDF](./Exp05/Exp05_Physics
 The Data used for this lab is in [Lab05 Data Excel](./Exp05/TableExp05.xlsx)
 
 ### Lab06
-The Report for this part is provided in [Lab06 Rep6ort PDF](./Exp06/Exp06_PhysicsLab-9931061.pdf). <br />
+The Report for this part is provided in [Lab06 Report PDF](./Exp06/Exp06_PhysicsLab-9931061.pdf). <br />
 The Data used for this lab is in [Lab06 Data Excel](./Exp06/TableExp06.xlsx)
 
 ### Lab09
